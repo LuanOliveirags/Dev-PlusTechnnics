@@ -20,7 +20,7 @@ body{
 }
 
 header{
-    height: calc( 40vh - 100px);
+    height: calc( 50vh - 25px);
 
     background-image:url(assets/.jpg) ;
     background-repeat: no-repeat center cover;
@@ -110,6 +110,7 @@ margin: auto;
 footer{
 
     text-align: center;
+    background: black;
 }
 
 
