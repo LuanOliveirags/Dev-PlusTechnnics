@@ -20,7 +20,7 @@ body{
 }
 
 header{
-  height: calc( 50vh - 100px);
+  height: calc( 75vh - 100px);
 
     background-image:url(assets/tec3.jpg) ;
     background-repeat: no-repeat center cover;
