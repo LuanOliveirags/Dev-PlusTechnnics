@@ -21,8 +21,7 @@ body{
 
 /* CAPA */
 header{
-    height: calc( 50vh - 25px);
-
+  height: calc( 75vh - 100px);
     background-image:url(assets/1.jpg) ;
     background-repeat: no-repeat center cover;
     background-size: 100%;
