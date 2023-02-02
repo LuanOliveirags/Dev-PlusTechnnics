@@ -21,7 +21,7 @@ body{
 
 /* CAPA */
 header{
-    height: calc( 75vh - 100px);
+    height: calc( 50vh - 25px);
 
     background-image:url(assets/1.jpg) ;
     background-repeat: no-repeat center cover;
@@ -103,6 +103,7 @@ margin: auto;
 footer{
 
     text-align: center;
+    background: black;
 
 }
 
